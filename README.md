@@ -2,7 +2,7 @@
 This is a repository for web app development using Python 
 # Setting Up Virtual Environment in VS Code
 
-To work with a virtual environment in VS Code, follow these steps:
+To work with a virtual environment in VS Code, follow these 
 
 1. **Open the Folder in VS Code**
    - Open your project folder in Visual Studio Code.
@@ -32,3 +32,7 @@ To work with a virtual environment in VS Code, follow these steps:
      ```
 
 By following these steps, you'll have a virtual environment set up in VS Code with the necessary libraries installed.
+
+
+This is the first line i am adding 
+This is second line i am adding
